@@ -4,12 +4,14 @@
 
 ![in5omnia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
   
 <!--
 **in5omnia/in5omnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 Here are some ideas to get you started:
 
