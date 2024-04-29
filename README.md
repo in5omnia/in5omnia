@@ -1,4 +1,4 @@
-### Hi, I'm in Computer Science and I code 💻
+### Hi, I'm Beatriz and I'm finishing a Computer Science and Engineering degree at IST in Lisbon! 💻
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
