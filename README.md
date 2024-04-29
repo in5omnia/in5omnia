@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi, I'm in Computer Science and I code 💻
 
 ![in5omnia's Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 ![in5omnia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+
+logo={Linkedin}
+logoColor={blue}
+[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+)
 
 <!--
 **in5omnia/in5omnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
