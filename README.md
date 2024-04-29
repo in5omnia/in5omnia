@@ -1,8 +1,10 @@
 ### Hi, I'm in Computer Science and I code 💻
 
-![in5omnia's Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
-![in5omnia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
