@@ -22,6 +22,8 @@
 </div>
   
 <!--
+Link for changing stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
+
 **in5omnia/in5omnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ** Ligação Linkedin
   <a href="your-linkedin-URL">
