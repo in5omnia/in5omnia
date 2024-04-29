@@ -1,8 +1,21 @@
 ### Hi, I'm Beatriz! I'm in Computer Science and I code! 💻
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true) 
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+
+<!--
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="165"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact"> 
+</p>
+-->
+
+<!--
+if I want to have all commits instead of only this year, add at the end of the link the following:    &include_all_commits=true
+If I want them side by side, por as imagens separadas apenas por um espaço e não enter
+-->
+
 
 
 
