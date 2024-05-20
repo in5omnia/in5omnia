@@ -1,8 +1,15 @@
 ### Hi, I'm Beatriz! I'm in Computer Science and I code! 💻
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true) 
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+<div align="left">
+  <a href="https://github.com/in5omnia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&layout=compact&langs_count=7&theme=nightowl&show_icons=true&hide_border=true"/>
+</div>
+
+##
+
+
 
 <!--
 <p float="left">
@@ -14,6 +21,11 @@
 <!--
 if I want to have all commits instead of only this year, add at the end of the link the following:    &include_all_commits=true
 If I want them side by side, por as imagens separadas apenas por um espaço e não enter
+
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&count_private=true) 
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=in5omnia&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 -->
 
 
