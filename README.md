@@ -1,4 +1,4 @@
-### Hi, I'm Beatriz! I'm in Computer Science and I code! 💻
+### Hi, I'm Beatriz! I'm a Computer Science major, currently doing an MSc in AI, and I code! 💻
 
 
 <div align="left">
